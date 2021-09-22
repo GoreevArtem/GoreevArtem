@@ -1,5 +1,5 @@
 ## About me
-Hello everyone, I'm Artem Goreev, a beginner programmer in ML and the IoF
+Hello everyone, I'm Artem Goreev a beginner programmer in ML and the IoF
 
 ---
 
