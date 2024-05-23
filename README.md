@@ -5,7 +5,7 @@ Hello everyone, I'm Artem Goreev a beginner programmer in ML and the IoF
 
 ### Languages and tools
 
-![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=Python&logoColor=39E830) ![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=C%2b%2b&logoColor=27C9F1) ![OpenCV](https://img.shields.io/badge/-OpenCV-000000?style=for-the-badge&logo=OpenCV) ![Tensorflow](https://img.shields.io/badge/-Tensorflow-000000?style=for-the-badge&logo=Tensorflow&logoColor=DF3C34) ![PyTorch](https://img.shields.io/badge/-PyTorch-000000?style=for-the-badge&logo=PyTorch&logoColor=E49ACD) ![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=Java&logoColor=F6A298)
+![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=Python&logoColor=39E830) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=C%2b%2b&logoColor=27C9F1) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) 	![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
 ---
 
