@@ -11,4 +11,4 @@ Hello everyone, I'm Artem Goreev a beginner programmer
 
 ### Follow me
 
-[![telegram](https://img.shields.io/badge/-telegram-000000?style=for-the-badge&logo=telegram)](https://t.me/ArtyomGoreev) [![vk](https://img.shields.io/badge/-vk-000000?style=for-the-badge&logo=vk)](https://vk.com/artemgoreev)
+[![telegram](https://img.shields.io/badge/-telegram-000000?style=for-the-badge&logo=telegram)](https://t.me/ArtyomGoreev) [![vk](https://img.shields.io/badge/-vk-000000?style=for-the-badge&logo=vk)](https://vk.com/artyom_goreev)
